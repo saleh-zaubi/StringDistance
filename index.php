@@ -209,6 +209,12 @@
 					      			<li>Select field to select the method that will be used to calculate the distand</li>
 					      			<li>Box to show the result</li>
 					      		</ul>
+							To run this file from command line
+					      		<ul>
+								<li>Put all the files in the root folder of your PHP server</li>
+								<li>Open the terminal and type: start http://localhost/index.php</li>
+								<li>Make sure you are connected to the internet since this file uses CDN libraries</li>
+							</ul>
 						    </div>
 					  </div>
 					  <div class="step minimized">
