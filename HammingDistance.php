@@ -5,7 +5,7 @@
  class HammingDistance extends StringDistance
  {	
 
- 	//the constructor will initiate the states and calulate the strings lengths
+ 	//the constructor will call the parent class constructor to initiate the states
  	public function __construct($a, $b)
  	{
  		parent::__construct($a, $b);
