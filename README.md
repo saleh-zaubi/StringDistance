@@ -9,6 +9,10 @@ Project files
 			Input field for string "b"
 			Select field to select the method that will be used to calculate the string distand
 			Box to show the result
+		To run this file from command line
+			Put all the files in the root folder of your PHP server
+			Open the terminal and type: start http://localhost/index.php
+			Make sure you are connected to the internet since this file uses CDN libraries
 
 	ajax.php
 		This file is a support file used by the index.php to get the result using ajax request.
