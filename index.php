@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>OpenSooq Assignment</title>
+	<title>String Distance</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<style type="text/css">
 		html,body{
@@ -141,7 +141,7 @@
 <body>
 	<div id="container">
 		<nav class="navbar navbar-expand-lg navbar-light bg-info">
-		  <a class="navbar-brand text-white" href="#">OpenSooq Assignment</a>
+		  <a class="navbar-brand text-white" href="#">String Distance</a>
 		  <a id="open-tut" class="ml-auto text-white" href="#">Assignment Tutorial</a>
 		</nav>
 		<div class="container mt-4">
