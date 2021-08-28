@@ -142,7 +142,7 @@
 	<div id="container">
 		<nav class="navbar navbar-expand-lg navbar-light bg-info">
 		  <a class="navbar-brand text-white" href="#">String Distance</a>
-		  <a id="open-tut" class="ml-auto text-white" href="#">Assignment Tutorial</a>
+		  <a id="open-tut" class="ml-auto text-white" href="#">Tutorial</a>
 		</nav>
 		<div class="container mt-4">
 			<form>
